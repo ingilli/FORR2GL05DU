@@ -14,6 +14,6 @@ Inspector er það sem við notum til þess að skoða og breyta hlut
 #
 #Vidjó
 #
-https://youtu.be/33AVcsCzMvs
+https://youtu.be/jutrpU8DGfw
 https://youtu.be/twhN4UKTORc
 
