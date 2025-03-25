@@ -11,7 +11,9 @@ Project er þar sem við geymum assets og svoleiðis til þess að setja í leik
 Hierarchy er þar sem við getum séð allt sem er á scene
 #
 Inspector er það sem við notum til þess að skoða og breyta hlut
+#
 #Vidjó
+#
 https://youtu.be/33AVcsCzMvs
 https://youtu.be/twhN4UKTORc
 
